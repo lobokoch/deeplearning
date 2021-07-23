@@ -66,9 +66,7 @@ Configurações iniciais da rede:
 
 ## Conclusão
 
-Com base nos resultados obtidos de acurácia baixa, mesmo testando com diferentes arquiteturas de redes neurais (apesar de estar apresentado apenas 4 arquiteturas nos resultados do trabalho, foram empregadas mais de 20 diferentes arquiteturas). Assim, supõem-se que a base do dataset possui anomalias e ruídos nos dados. A fim de aumentar a acurácia seria necessário empregar uma ampla exploração e transformação nos dados do dataset, bem como efetuar novos experimentos com diferentes arquiteturas de redes neurais.
-
-Mas mesmo com resultados de acurácia baixos, foi perfeitamente possível compreender e explorar o funcionamento das redes neurais artificiais, tanto classificação binária quanto multi classes. O Python oferece uma ampla gama de bibliotecas, como o pytorch, sklearn, numpy e pandas para manipular os dados desde o carregamento do dataset no formato csv, aplicação das técnicas de redes neurais, cálculo e extração dos resultados e persistência dos resultados também em arquivo csv.
+No presente trabalho foi possível compreender e explorar o funcionamento da abordagem de **Deep Learning** empregada na classificação de textos para análise de sentimentos.
 
 
 
