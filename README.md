@@ -28,3 +28,4 @@ Sugestões:
 - [Arquivo de código fonte da implementação](deep_leraning_sentiment_analysis_using_lstm_pytorch.ipynb)
 - [Arquivo de modelo treinado](state_dict.pt)
 
+**NOTA**: O tipo de rede utilizada foi **LSTM**. 
