@@ -25,7 +25,7 @@ Sugestões:
 - Explorar a base de dados nas células iniciais do notebook para ter um melhor entendimento do problema, distribuição dos dados, etc
 - Após desenvolver a estrutura de classificação, é indicado fazer uma busca de hiperparâmetros e comparar os resultados obtidos em diferentes situações
 
+## Artefatos do desenvolvimento
 - [Arquivo de código fonte da implementação é deep_leraning_sentiment_analysis_using_lstm_pytorch.ipynb](deep_leraning_sentiment_analysis_using_lstm_pytorch.ipynb)
 - [Arquivo de modelo treinado é state_dict.pt](state_dict.pt)
-
-**NOTA**: O tipo de rede utilizada foi **LSTM**. 
+- O tipo de rede utilizada foi **LSTM**
